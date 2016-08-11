@@ -1,0 +1,9 @@
+id: 1
+name: tasuku
+hobby:
+  - "running"
+  - "bouldering"
+  - "baseball"
+skill:
+  "Java": null
+  "Ruby": True
